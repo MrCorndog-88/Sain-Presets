@@ -3,6 +3,6 @@ Medium is similar in difficulty to I like pain and Hard is similar to Death Wish
 
 **Please note, the AI inside HEADLESS are NOT performance limited and the AI in the SPT version are performance limited**
 
-Please choose the right build for your specs, generally SPT versions are better for most people.
+Please choose the right build for your specs, generally SPT versions are better for most people as it limits AI that are far away.
 
 Just click download RAW and drop into your SAIN presets folder inisde BeplnEx/Plugins/SAIN/Presets.
