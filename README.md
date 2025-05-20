@@ -2,7 +2,7 @@ Some sain presets I made one evening and tested a good bit on Labs, Factory, Str
 Medium is similar in difficulty to I like pain and Hard is similar to Death Wish but with modifications to hearing and vision to make it more realistic and fair. 
 
 **Please note, the AI inside HEADLESS versions are NOT performance limited and the AI in the SPT version are performance limited. If you want to save fps use SPT versions as this is
-the only differejce between them.**
+the only difference between them.**
 
 Please choose the right build for your specs, generally SPT versions are better for most people as it limits AI that are far away.
 
