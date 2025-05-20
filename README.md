@@ -1,9 +1,9 @@
-Some sain presets I made one evening and tested a good bit on Labs, Factory, Streets. Based of 3.9 Realstic Combat Overhal but updated for test builds of current Sain. 
-Medium is similar in difficulty to I like pain and Hard is similar to Death Wish but with modifications to hearing and vision to make it more realistic and fair. 
+Some SAIN presets I made one evening and tested a good bit on Labs, Factory, and Streets. They're based on 3.9 Realistic Combat Overhaul but updated for the latest SAIN test builds.
 
-**Please note, the AI inside HEADLESS versions are NOT performance limited and the AI in the SPT version are performance limited. If you want to save fps use SPT versions as this is
-the only difference between them.**
+Medium is similar in difficulty to I Like Pain, and Hard is close to Death Wish but with tweaks to hearing and vision to make things more realistic and fair.
 
-Please choose the right build for your specs, generally SPT versions are better for most people as it limits AI that are far away.
+Heads up: the AI in HEADLESS versions are not performance-limited — meaning bots far away will still be fully active. The SPT versions are performance-limited, which helps save FPS. That’s the only difference between them.
 
-Just click download RAW and drop into your SAIN presets folder inisde BeplnEx/Plugins/SAIN/Presets.
+Pick the right version for your setup — generally, SPT versions are better for most people since they reduce load from AI far away.
+
+Just click Download RAW and drop the file into your BepInEx/Plugins/SAIN/Presets folder.
