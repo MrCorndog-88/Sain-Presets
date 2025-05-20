@@ -2,7 +2,7 @@ Some SAIN presets I made one evening and tested a good bit on Labs, Factory, and
 
 Medium is similar in difficulty to I Like Pain, and Hard is close to Death Wish but with tweaks to hearing and vision to make things more realistic and fair.
 
-Heads up: the AI in HEADLESS versions are not performance-limited — meaning bots far away will still be fully active. The SPT versions are performance-limited, which helps save FPS. That’s the only difference between them.
+IMPORTANT: the AI in HEADLESS versions are not performance-limited — meaning bots far away will still be fully active. The SPT versions are performance-limited, which helps save FPS. That’s the only difference between them.
 
 Pick the right version for your setup — generally, SPT versions are better for most people since they reduce load from AI far away.
 
