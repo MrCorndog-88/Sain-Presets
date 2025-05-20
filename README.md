@@ -7,3 +7,5 @@ IMPORTANT: the AI in HEADLESS versions are not performance-limited — meaning b
 Pick the right version for your setup — generally, SPT versions are better for most people since they reduce load from AI far away.
 
 Just click Download RAW and drop the file into your BepInEx/Plugins/SAIN/Presets folder.
+
+Msg me on discord if u have suggestions: .naddan
