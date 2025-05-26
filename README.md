@@ -4,7 +4,7 @@ Here are some SAIN presets I created and thoroughly tested on Labs, Factory, and
 - Medium is close to I Like Pain.
 - Hard is close to Death Wish.
 
-All versions feature refined hearing for more realistic audio detection.
+All versions feature refined hearing for more realistic audio detection similar to what the player can hear.
 
 Important:
 HEADLESS versions are not performance-limited — AI remain fully active at any distance, which will reduce FPS.
