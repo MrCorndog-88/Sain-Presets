@@ -7,8 +7,7 @@ Here are some SAIN presets I created and thoroughly tested on Labs, Factory, and
 All versions feature refined hearing for more realistic audio detection similar to what the player can hear.
 
 Important:
-HEADLESS versions are not performance-limited — AI remain fully active at any distance, which will reduce FPS.
-SPT versions are performance-limited — distant AI are throttled to improve performance.
+HEADLESS versions are not performance-limited - AI remain fully active at any distance, which will reduce FPS. SPT versions do not have this enabled.
 
 For most players, SPT versions are recommended for better FPS and smoother gameplay.
 
