@@ -1,0 +1,11 @@
+{
+  "Name": "Fika Headless Combat Medium",
+  "Description": "Fika Headless Combat Medium",
+  "Creator": "user",
+  "SAINVersion": "3.3.0",
+  "SAINPresetVersion": "3.3.0",
+  "DateCreated": "05/26/2025 00:00:00",
+  "BaseSAINDifficulty": "veryhard",
+  "IsCustom": true,
+  "CanEditName": true
+}
