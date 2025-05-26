@@ -1,8 +1,8 @@
 Here are some SAIN presets I created and thoroughly tested on Labs, Factory, and Streets. They're based on 3.9 Realistic Combat Overhaul, updated for the latest SAIN test builds.
 
 - Normal is the most balanced and realistic preset.
-- Medium offers a difficulty level similar to I Like Pain.
-- Hard is close to Death Wish, but with adjustments to make AI more immersive and fair.
+- Medium is close to I Like Pain.
+- Hard is close to Death Wish.
 
 All versions feature refined hearing for more realistic audio detection.
 
